@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rYb1qqWHTmGg9EhKk9H4yBMdPlkBk4sdd52ySjRIn+/JPZfdMmxEolhoww5p9QJi/MnihwgFlX87Aa4Jej9K5Q==",
+  "success": true,
+  "projectFilePath": "E:\\LTI\\LTI august 13\\Training\\Pilot Project - Project Gladiator\\HomeLoan\\WebAPIHomeLoan\\WebAPIHomeLoan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\natar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\natar\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\natar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\natar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\natar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
